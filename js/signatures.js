@@ -37,4 +37,12 @@ window.SIGNATURES = [
     colour: "#9a031e",
     rotate: 2,
   },
+  {
+    name: "Megan",
+    message: "Thanks for all the laughs and support! Wishing you all the best in your next adventure.",
+    role: "Frontend guild",
+    font: "Indie Flower",
+    colour: "#ffb703",
+    rotate: -2,
+  }
 ];
