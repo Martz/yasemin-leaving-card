@@ -19,30 +19,10 @@
  */
 window.SIGNATURES = [
   {
-    name: "The Team",
+    name: "Martin Palastanga",
     message:
-      "It hasn't been the same without you already.\nThank you for every shipped feature, every code review and every laugh along the way.",
-  },
-  {
-    name: "Sam",
-    message: "Best pair-programming partner I could have asked for. Go smash it! 🚀",
-    role: "Backend guild",
-    colour: "#0b6e4f",
-    rotate: -3,
-  },
-  {
-    name: "Priya",
-    message: "Who am I going to ask about flexbox now?? Good luck, you legend.",
-    font: "Permanent Marker",
-    colour: "#9a031e",
-    rotate: 2,
-  },
-  {
-    name: "Megan",
-    message: "Thanks for all the laughs and support! Wishing you all the best in your next adventure.",
-    role: "Frontend guild",
+      "It's been an absolute pleasure working with you Yasemin, continually inspiring us all with your attention to detail and amazing ability to truly understand what we build.\nWishing you every success in the future!",
     font: "Indie Flower",
-    colour: "#ffb703",
-    rotate: -2,
+    colour: "#ffb703"
   }
 ];
