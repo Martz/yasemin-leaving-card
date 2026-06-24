@@ -32,5 +32,13 @@ window.SIGNATURES = [
     font: "Caveat",
     colour: "#0b6e4f",
     rotate: -2,
-  }
+  },
+  {
+    name: "Dane",
+    message:
+      "All the best with your new role! You will not be able to be replaced here and I am sure the DCX door will always be open.",
+    font: "Permanent Marker",
+    colour: "#2a9d8f",
+    size: 1.7,
+  },
 ];
