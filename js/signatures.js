@@ -42,6 +42,12 @@ window.SIGNATURES = [
     size: 1.7,
   },
   {
+    name: "Amina",
+    message: "Yasemin, you will be missed dearly, thank you for all your support, I have enjoyed working with you and wish you all the best in your new role!",
+    font: "Permanent Marker",
+    colour: "#e290d6",
+    rotate: -2,
+  },{
     name: "Tahmid",
     message:
       "Wishing you all the best in your new role, Yasemin! You've been an integral part of the team — always able to get to grips with even the most complex parts of the system, and just as good at explaining it clearly. You'll be brilliant. Take care!",
