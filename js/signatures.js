@@ -41,4 +41,11 @@ window.SIGNATURES = [
     colour: "#2a9d8f",
     size: 1.7,
   },
+  {
+    name: "Amina",
+    message: "Yasemine, you will be missed dearly, thank you for all your support, I have enjoyed working with you and wish you all the best in your new role!",
+    font: "Permanent Marker",
+    colour: "#e290d6",
+    rotate: -2,
+  },
 ];
