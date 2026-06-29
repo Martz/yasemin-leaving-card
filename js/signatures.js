@@ -42,6 +42,12 @@ window.SIGNATURES = [
     size: 1.7,
   },
   {
+    name: "Tahmid",
+    message:
+      "Wishing you all the best in your new role, Yasemin! You've been an integral part of the team — always able to get to grips with even the most complex parts of the system, and just as good at explaining it clearly. You'll be brilliant. Take care!",
+    font: "Architects Daughter",
+    colour: "#1a3a6b",
+  },{
     name: "Shadab Khan",
     message:
       "Really liked how calm and calculative you used to be while explaining a task and how open you used to be listening to the other perspective. During the course of our time in this project, I learned a lot of new ways of how I can leverage AI tools best and other such tricks from you.\nI wish you all the very best in whatever you choose to do next.",
