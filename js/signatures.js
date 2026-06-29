@@ -41,4 +41,12 @@ window.SIGNATURES = [
     colour: "#2a9d8f",
     size: 1.7,
   },
+  {
+    name: "Ramona",
+    message:
+      "Yasemin, it's been a pleasure working with you. I've picked up many valuable lessons along the way, and it’s been great being part of the same team. \nWishing you all the best for what's next! ",
+    font: "Kalam",
+    colour: "#f74a05",
+    size: 1.7,
+  },
 ];
