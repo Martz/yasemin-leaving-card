@@ -41,4 +41,11 @@ window.SIGNATURES = [
     colour: "#2a9d8f",
     size: 1.7,
   },
+  {
+    name: "Elamin Fadlalla",
+    message:
+      "Yasemin, it has been a pleasure working with you across two accounts. You have always been a great team member: hard-working, clever, and truly supportive of your team. It is very sad to see you leaving, and I wish you every success in what comes next.",
+    font: "Kalam",
+    colour: "#1a3a6b",
+  },
 ];
