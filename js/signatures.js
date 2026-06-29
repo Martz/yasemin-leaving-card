@@ -42,6 +42,12 @@ window.SIGNATURES = [
     size: 1.7,
   },
   {
+    name: "Elamin Fadlalla",
+    message:
+      "Yasemin, it has been a pleasure working with you across two accounts. You have always been a great team member: hard-working, clever, and truly supportive of your team. It is very sad to see you leaving, and I wish you every success in what comes next.",
+    font: "Kalam",
+    colour: "#1a3a6b",
+  },{
     name: "Amina",
     message: "Yasemin, you will be missed dearly, thank you for all your support, I have enjoyed working with you and wish you all the best in your new role!",
     font: "Permanent Marker",
