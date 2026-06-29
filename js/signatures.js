@@ -42,6 +42,13 @@ window.SIGNATURES = [
     size: 1.7,
   },
   {
+    name: "Shadab Khan",
+    message:
+      "Really liked how calm and calculative you used to be while explaining a task and how open you used to be listening to the other perspective. During the course of our time in this project, I learned a lot of new ways of how I can leverage AI tools best and other such tricks from you.\nI wish you all the very best in whatever you choose to do next.",
+    font: "Dancing Script",
+    colour: "#6a4c93",
+    size: 1.4,
+  },{
     name: "Gita xx",
     message: "Yasemin, Congratulations on your new role! Thank you for everything you've contributed while working with us. It's been a pleasure working with you. I've really appreciated your support and the positive energy you've brought to the team. You'll definitely be missed. Wishing you every success in the next chapter!",
     font: "Caveat",
