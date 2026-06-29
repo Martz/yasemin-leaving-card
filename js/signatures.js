@@ -47,5 +47,35 @@ window.SIGNATURES = [
       "Yasemin, it has been a pleasure working with you across two accounts. You have always been a great team member: hard-working, clever, and truly supportive of your team. It is very sad to see you leaving, and I wish you every success in what comes next.",
     font: "Kalam",
     colour: "#1a3a6b",
+  },{
+    name: "Amina",
+    message: "Yasemin, you will be missed dearly, thank you for all your support, I have enjoyed working with you and wish you all the best in your new role!",
+    font: "Permanent Marker",
+    colour: "#e290d6",
+    rotate: -2,
+  },{
+    name: "Tahmid",
+    message:
+      "Wishing you all the best in your new role, Yasemin! You've been an integral part of the team — always able to get to grips with even the most complex parts of the system, and just as good at explaining it clearly. You'll be brilliant. Take care!",
+    font: "Architects Daughter",
+    colour: "#1a3a6b",
+  },{
+    name: "Shadab Khan",
+    message:
+      "Really liked how calm and calculative you used to be while explaining a task and how open you used to be listening to the other perspective. During the course of our time in this project, I learned a lot of new ways of how I can leverage AI tools best and other such tricks from you.\nI wish you all the very best in whatever you choose to do next.",
+    font: "Dancing Script",
+    colour: "#6a4c93",
+    size: 1.4,
+  },{
+    name: "Gita xx",
+    message: "Yasemin, Congratulations on your new role! Thank you for everything you've contributed while working with us. It's been a pleasure working with you. I've really appreciated your support and the positive energy you've brought to the team. You'll definitely be missed. Wishing you every success in the next chapter!",
+    font: "Caveat",
+  },
+  {
+    name: "Krishnan",
+    message: "Working with you has been such a great experience, Yasemin!\nYou were always ready to help whenever I was in trouble, and I truly appreciate how you not only helped me but also taught and guided me along the way. I learned a lot from you.\nIt has been a genuinely great experience working with you. Thanks for all the help, knowledge, and positive energy you brought to the team.\nIt won't be the same without you — you'll definitely be missed.\nWishing you lots of success and happiness in what's next. Stay in touch!",
+    font: "Kalam",
+    colour: "#5b2d8e",
+    rotate: 2,
   },
 ];
