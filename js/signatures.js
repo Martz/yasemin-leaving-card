@@ -41,4 +41,8 @@ window.SIGNATURES = [
     colour: "#2a9d8f",
     size: 1.7,
   },
+  {
+    name: "Shireen",
+    message: "All the very best in your new role Yasemin. You have been a core part of the Matalan team and have always been willing to answer my questions and help me out!",
+  },
 ];
